@@ -15,4 +15,3 @@ const nome = "Anna";
 const sobrenome = "anna";
 
 console.log(nome === sobrenome);
-

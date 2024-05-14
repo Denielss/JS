@@ -21,9 +21,3 @@ const idade = 30;
 console.log("Nome: " + nome2);
 console.log("Sobrenome: " + sobrenome);
 console.log("Idade: " + idade);
-
-
-
-
-
-
